@@ -4,6 +4,8 @@ THIS IS A REPOSITORY FOR ALL APPS DEVELOPED UNDER VB.NET
 Note: Simple Store v2.2 require crytal report runtime to run the reporting system embeded in the software
 Find link here: 
 
+Some of these Apps were developed using MS Access Database and required access database engine (2010) to run
+
 
 Other Projects developed Includes
 
@@ -28,3 +30,8 @@ an NGO
 
 6. ReturnBuk: I developed this software version of Field Cashiers daily returns for Multi Credit during my appointment with the company.
 This made it easier to track field cashiers/sales clerks performance and also the overall performance of the field cashiers in terms of Daily, Weekly and annually. Also it helped management to make critical decisions 
+
+7. W.E Analytics
+
+
+8. 
