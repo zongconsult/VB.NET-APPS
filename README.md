@@ -1,16 +1,18 @@
 # VB.NET-APPS
 THIS IS A REPOSITORY FOR ALL APPS DEVELOPED UNDER VB.NET
 
-Note: Simple Store v2.2 require crytal report runtime to run the reporting system embeded in the software
+Note: Simple Store v2.2 requires crystal report runtime to run the reporting system embeded in the software
 Find link here: 
 
 Some of these Apps were developed using MS Access Database and required access database engine (2010) to run
+Find link here:
 
 
-Other Projects developed Includes
+Other Projects
+==============
 
-1. Simple Contacts: To simply save/edit/delete contacts on pc.
-I also build added a photo function so as to display the phot of the contact.
+1. Simple Contacts: To simply save/edit/delete and update contacts on pc.
+I also build added a photo function so as to display the photo of the contact.
 
 
 2. Ozone emails collector: To simply store the numerous emails and password i have for the various websites.
